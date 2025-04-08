@@ -1,1 +1,41 @@
-{"name":"Olga Shonus","short_name":"Nutritionist","start_url": "https://olgashonus.kesug.com/","icons":[{"src":"https://olgashonus.kesug.com/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"https://olgashonus.kesug.com/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],"theme_color":"#588157","background_color":"#a3b18a","display":"standalone"}
+{
+  "name": "Olga Shonus",
+  "short_name": "Nutritionist",
+  "id": "/",
+  "start_url": "https://olgashonus.kesug.com/",
+  "icons": [
+    {
+      "src": "https://churu32.github.io/manifest/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://churu32.github.io/manifest/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#588157",
+  "background_color": "#a3b18a",
+  "display": "standalone",
+  "screenshots": [
+    {
+      "src": "https://churu32.github.io/manifest/screenshot-mobile.png",
+      "sizes": "605x892",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "მთავარი გვერდი მობილურზე"
+    },
+    {
+      "src": "https://churu32.github.io/manifest/screenshot-desktop.png",
+      "sizes": "1898x983",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "მთავარი გვერდი დესკტოპზე"
+    }
+  ],
+  "description": "ოლგა შონუსი - ნუტრიციოლოგი და ჯანსაღი კვების სპეციალისტი",
+  "lang": "ka"
+}
