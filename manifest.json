@@ -22,14 +22,14 @@
   "display": "standalone",
   "screenshots": [
     {
-      "src": "https://churu32.github.io/manifest/screenshot-mobile.png",
+      "src": "https://churu32.github.io/manifest/screenshot-mobile1.png",
       "sizes": "540x720",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "მთავარი გვერდი მობილურზე"
     },
     {
-      "src": "https://churu32.github.io/manifest/screenshot-desktop.png",
+      "src": "https://churu32.github.io/manifest/screenshot-desktop1.png",
       "sizes": "1280x800",
       "type": "image/png",
       "form_factor": "wide",
