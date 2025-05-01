@@ -5,18 +5,18 @@
   "start_url": "https://olgashonus.kesug.com/",
   "icons": [
     {
-      "src": "https://churu32.github.io/manifest/android-chrome1-192x192.png",
+      "src": "https://churu32.github.io/manifest/android-chrome2-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://churu32.github.io/manifest/android-chrome1-512x512.png",
+      "src": "https://churu32.github.io/manifest/android-chrome2-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
-  "theme_color": "#588157",
-  "background_color": "#a3b18a",
+  "theme_color": "#a3b18a",
+  "background_color": "#588157",
   "display": "standalone",
   "screenshots": [
     {
